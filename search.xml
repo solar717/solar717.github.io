@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>毕业设计碎碎念</title>
+      <link href="/2020/02/08/bi-ye-she-ji-sui-sui-nian/"/>
+      <url>/2020/02/08/bi-ye-she-ji-sui-sui-nian/</url>
+      
+        <content type="html"><![CDATA[<h1 id="聊一聊可怜的IDS"><a href="#聊一聊可怜的IDS" class="headerlink" title="聊一聊可怜的IDS"></a>聊一聊可怜的IDS</h1><h2 id="4-Active-learning-for-Wireless-IoT-Intrusion-Detection"><a href="#4-Active-learning-for-Wireless-IoT-Intrusion-Detection" class="headerlink" title="4.Active learning for Wireless IoT Intrusion Detection"></a>4.Active learning for Wireless IoT Intrusion Detection</h2><h3 id="main-idea"><a href="#main-idea" class="headerlink" title="main idea"></a>main idea</h3><p>1.Intrusion Detection Tech:</p><ul><li><p>misuse-based method: </p><p>First get signature of domain knowledge and expert experience, look for a particular pattern in the incoming network,known!</p></li><li><p>anomaly-based method:</p><p>First learns the normal network behaviours then effectively detect unknown attacks</p></li><li><p>hybrid method </p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> undergraduate </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 4th year </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>2020-02-08 【转载】地里的刷题攻略</title>
       <link href="/2020/02/08/0/"/>
       <url>/2020/02/08/0/</url>
